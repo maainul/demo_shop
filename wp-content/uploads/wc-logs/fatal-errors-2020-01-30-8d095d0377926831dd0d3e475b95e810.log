@@ -1,0 +1,6 @@
+2020-01-30T01:57:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\demo_shop\wp-includes\http.php on line 551
+
+2020-01-30T14:12:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\demo_shop\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-01-30T15:48:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\demo_shop\wp-includes\widgets\class-wp-widget-archives.php on line 17
+
